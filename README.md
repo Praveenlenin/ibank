@@ -11,3 +11,4 @@ use "mvn clean install" to build Jar and store it in target folder
     
 # To view and monitor health and metrics, go to http://<localhostUri>/actuator
      
+ 
