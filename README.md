@@ -10,4 +10,4 @@ use "mvn clean install" to build Jar and store it in target folder
 # To access the API documentation, go to http://<localhostUri>/swagger-ui/index.html#/
     
 # To view and monitor health and metrics, go to http://<localhostUri>/actuator
-    
+     
